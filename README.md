@@ -19,8 +19,7 @@
 
 ## Screenshots
 
-> Add a GIF here after deploying — use [LICEcap](https://www.cockos.com/licecap/) or [Kap](https://getkap.co/)
-
+![Algorithm Visualizer Demo](public/demo.gif) 
 ## Tech Stack
 
 | Tool | Purpose |
